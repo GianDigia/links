@@ -2,14 +2,12 @@
 - [Codecademy](https://www.codecademy.com/catalog/subject/programming)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Udemy](https://www.udemy.com/)
-
 ## Swift
 - [Start Developing iOS Apps (Swift): Build a Basic UI](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html)
 - [Design+Code - Learn to design and code an iOS 11 app](https://designcode.io/)
 - [macOS Development for Beginners: Part 1](https://www.raywenderlich.com/731-macos-development-for-beginners-part-1)
 - [macOS Development for Beginners: Part 2](https://www.raywenderlich.com/151746/macos-development-beginners-part-2)
 - [Parallel programming with Swift: Promises – Flawless App Stories – Medium](https://medium.com/flawless-app-stories/parallel-programming-with-swift-promises-740be1a260ed)
-
 ## Ruby On Rails
 - [Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)](https://dev.to/philnash/top-10-errors-from-1000-ruby-on-rails-projects-and-how-to-avoid-them-24m)
 - [Localizing JavaScript in Rails Apps - PhraseApp Blog](https://phraseapp.com/blog/posts/localizing-javascript-in-rails-apps/)
@@ -50,15 +48,12 @@
 - [ActiveRecord performance: the N+1 queries antipattern](https://medium.com/@AppSignal/activerecord-performance-the-n-1-queries-antipattern-db89d21a04bc)
 - [CRUD React-Native &amp; RoR backend with Devise Auth Token](https://medium.com/@eth3rnit3/crud-react-native-ror-backend-with-devise-auth-token-4407cac3aa0b)
 - [Build Your Own Real-Time Search With React &amp; Ruby On Rails](https://medium.com/@jalenjackson/build-your-own-real-time-search-with-react-ruby-on-rails-760f141a2d1d)
-
 ## Others
 - [Regular Expression Quick Reference](http://regexrenamer.sourceforge.net/help/regex_quickref.html)
-
 ## Maintenance
 - [Must-have DevOps Tools for App Maintenance – JetRuby](https://expertise.jetruby.com/must-have-devops-tools-for-app-maintenance-fb914eb6fb5b)
 - [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 - [6 Simple Tips on How to Start Writing Clean Code – Hacker Noon](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
-
   ### Test
   - [Making Rspec fast while using seeded data – Open House – Medium](https://medium.com/opendoor-labs/making-rspec-fast-while-using-seeded-data-17c8374930e5)
   - [capybara cheat sheet](https://gist.github.com/zhengjia/428105)
@@ -67,18 +62,14 @@
   - [Cleaner and More Maintainable RSpec – Yoel Blum – Medium](https://medium.com/@yoelblum_45935/cleaner-and-more-maintainable-rspec-cb0b439cd349)
   - [An opinionated guide to readable RSpec (part 1 of 2)](https://medium.com/selleo/an-opinionated-guide-to-readable-rspec-part-1-of-2-fe1dce79a478)
   - [An opinionated guide to readable RSpec (part 2 of 2)](https://medium.com/selleo/an-opinionated-guide-to-readable-rspec-part-2-of-2-2cc64b92aa14)
-
 ## IDE
 - [Top JavaScript VSCode Extensions for Faster Development 🔥](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
 - [Favorite Visual Studio Code Extensions of 2017 – freeCodeCamp.org](https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f)
 - [VS Code Extensions for Happier JavaScript Coding – Hacker Noon](https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72dd9c1)
-
 ## Front End
 - [25 HTML &amp; CSS Tutorials – codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
-
   ### Bootstrap
   - [Want to learn Bootstrap 4? Here’s our free 10-part course. Happy Easter!](https://medium.freecodecamp.org/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4)
-
   ### Javascript
     - [Modern JavaScript features which you should be using every day for better development and what…](https://medium.com/@tkwebdev/modern-javascript-features-which-you-should-be-using-every-day-for-better-development-and-what-66d74633e896)
     - [Selectize.js](https://selectize.github.io/selectize.js/)
@@ -98,21 +89,17 @@
     - [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
     - [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
     - [Want to learn ES6+? Here’s a free 23-part course that will give you a strong foundation.](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74)
-
   ### CSS
     - [Little UI Details](https://twitter.com/i/moments/880688233641848832)
     - [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
     - [Modern CSS Explained For Dinosaurs – Actualize – Medium](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
-
   ### UI/UX
     - [Creating Usability with Motion](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
     - [Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)
     - [10 cheat codes for designing User Interfaces – Design + Sketch – Medium](https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9)
-
   ### Fonts  
     - [Nunito - Google Fonts](https://fonts.google.com/specimen/Nunito)
     - [Oleo Script Font Free by soytutype fonts » Font Squirrel](https://www.fontsquirrel.com/fonts/oleo-script)
-
   ### React  
     - [Add React to Ruby on Rails App](https://blog.botreetechnologies.com/how-to-add-react-js-to-your-ruby-on-rails-app-with-webpacker-330d619d11ec)
     - [Password Strength Meter In React](https://scotch.io/tutorials/password-strength-meter-in-react?utm_source=newsletter&utm_medium=email&utm_campaign=develop_a_password_strength_meter_in_react_build_a_real_time_search_engine&utm_term=2018-05-07)
@@ -123,10 +110,7 @@
     - [Presentational and Container Components – Dan Abramov – Medium](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
     - [Understanding State and Props in React – Hacker Noon](https://hackernoon.com/understanding-state-and-props-in-react-94bc09232b9c)
     - [Learn React.js in 5 minutes – freeCodeCamp.org](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
-
-
 ## DB
   - [How I Reduced my DB Server Load by 80%](https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/)
-
 ## Kubernetes
   - [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
