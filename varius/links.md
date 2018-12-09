@@ -15,4 +15,4 @@
 - [Nunito - Google Fonts](https://fonts.google.com/specimen/Nunito)
 - [Oleo Script Font Free by soytutype fonts » Font Squirrel](https://www.fontsquirrel.com/fonts/oleo-script)
 
-[Home](README.md)
+[Home](../README.md)

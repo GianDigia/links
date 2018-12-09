@@ -9,4 +9,4 @@
 - [Understanding State and Props in React – Hacker Noon](https://hackernoon.com/understanding-state-and-props-in-react-94bc09232b9c)
 - [Learn React.js in 5 minutes – freeCodeCamp.org](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 
-[Home](README.md)
+[Home](../../README.md)

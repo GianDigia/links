@@ -19,4 +19,4 @@
 - [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 - [Want to learn ES6+? Here’s a free 23-part course that will give you a strong foundation.](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74)
 
-[Home](README.md)
+[Home](../../README.md)
