@@ -42,4 +42,4 @@
 ## DB
   - [How I Reduced my DB Server Load by 80%](https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/)
 
-[Home](/../../README.md)
+[Home](README.md)
