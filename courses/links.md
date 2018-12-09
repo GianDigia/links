@@ -3,4 +3,4 @@
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Udemy](https://www.udemy.com/)
 
-[Home](/../../README.md)
+[Home](README.md)

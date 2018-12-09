@@ -6,4 +6,4 @@
   - [Cleaner and More Maintainable RSpec – Yoel Blum – Medium](https://medium.com/@yoelblum_45935/cleaner-and-more-maintainable-rspec-cb0b439cd349)
   - [An opinionated guide to readable RSpec (part 1 of 2)](https://medium.com/selleo/an-opinionated-guide-to-readable-rspec-part-1-of-2-fe1dce79a478)
   - [An opinionated guide to readable RSpec (part 2 of 2)](https://medium.com/selleo/an-opinionated-guide-to-readable-rspec-part-2-of-2-2cc64b92aa14)
-  [Home](/../../README.md)
+  [Home](README.md)
