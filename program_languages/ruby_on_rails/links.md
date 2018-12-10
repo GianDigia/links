@@ -1,47 +1,75 @@
 # Ruby On Rails
 
-- [Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)][1]
-- [Localizing JavaScript in Rails Apps - PhraseApp Blog][2]
-- [Rails with react using React on Rails gem(TDD) – Yazed Jamal – Medium][3]
-- [How to organise i18n without losing your translation_not_found - We build Envato][4]
-- [ankane/chartkick: Create beautiful JavaScript charts with one line of Ruby][5]
-- [Accepts_nested_attributes_for with Has-Many-Through Relations][6]
-- [👋 Goodbye Sprockets. Welcome Webpacker – Alessandro Rodi – Medium][7]
-- [Hot Module Reloading with Webpacker – Ruby Inside – Medium][8]
-- [HABTM to has_many through][9]
+- [Ruby essential](#ruby-essential)
+- [Gems](#gems)
+- [Rails + Javascript](#rails-+-javascript)
+- [Rails + React](#rails-+-react)
+- [Rails + Webpacker](#rails-+-webpacker)
+- [Database](#database)
+- [Varius](#varius)
+
+## Ruby essential
+
 - [Ruby 101: The Basics – The Renaissance Developer – Medium][10]
-- [Using ActionCable][11]
-- [Test: Rspec, Factory Bot][12]
-- [Rails 5 Facebook Login][13]
-- [Using Tokens in Rails – muktesh Deshpande – Medium][14]
-- [We divided the time of our rspec test suite by 9 – Pootsy – Medium][15]
-- [Testing HTML5 Messages with RSpec/Selenium – Mike Schutte – Medium][16]
-- [Select2 With Simple Form in Rails - Andres Alvarez Dev Blog][17]
-- [Namespacing in Rails 5][18]
-- [plataformatec/simple_form: Forms made easy for Rails! It&#39;s tied to a simple DSL, with no opinion on markup.][19]
+- [Five Ruby Methods You Should Be Using][28]
 - [Method Arguments in Ruby: Part I – Mehdi Farsi – Medium][20]
 - [Method Arguments in Ruby: Part II – Mehdi Farsi – Medium][21]
 - [What is Difference between Ruby Blocks, Procs and Lambdas][22]
 - [Idiomatic Ruby: writing beautiful code – freeCodeCamp.org][23]
-- [Get previous values of model attributes in Rails using a pre-existing helper][24]
+- [What’s new in Ruby 2.6? – Tailor Tech – Medium][36]
+- [10 new features in Ruby 2.5 - RubyMine Blog][29]
+
+## Gems
+
+- [State machines in Rails 5 – GeoGO.in – Medium][33]
+- [plataformatec/simple_form: Forms made easy for Rails][19]
+
+## Rails + Javascript
+
+- [Localizing JavaScript in Rails Apps - PhraseApp Blog][2]
 - [How to make AJAX calls in Rails 5.1 with or without jQuery - Learnetto][25]
 - [How to make Ajax calls — The Rails way – Patrik on Rails][26]
-- [Calculating age in Rails – Craig Sheen – Medium][27]
-- [Five Ruby Methods You Should Be Using][28]
-- [10 new features in Ruby 2.5 - RubyMine Blog][29]
+
+## Rails + React
+
+- [Rails with react using React on Rails gem(TDD) – Yazed Jamal – Medium][3]
 - [Using React Inside Your Rails Apps - via @codeship - via @codeship][30]
-- [Configuring Puma, Unicorn and Passenger for Maximum Efficiency][31]
-- [ruby on rails ‘find_or_create_by’ with multiple attributes][32]
-- [State machines in Rails 5 – GeoGO.in – Medium][33]
-- [Rails Models With Materialized Views – Jaimerson Araújo – Medium][34]
 - [ReactJS + Ruby on Rails API + Heroku App – Bruno Boehm – Medium][35]
-- [What’s new in Ruby 2.6? – Tailor Tech – Medium][36]
-- [ActiveRecord performance: the N+1 queries antipattern][37]
 - [CRUD React-Native &amp; RoR backend with Devise Auth Token][38]
 - [Build Your Own Real-Time Search With React &amp; Ruby On Rails][39]
 
-## DB
+## Rails + webpacker
+
+- [Hot Module Reloading with Webpacker – Ruby Inside – Medium][8]
+- [👋 Goodbye Sprockets. Welcome Webpacker – Alessandro Rodi – Medium][7]
+- [ankane/chartkick: Create beautiful JavaScript charts with one line of Ruby][5]
+
+## Database
+
+- Query tips
+  - [HABTM to has_many through][9]
+  - [ruby on rails ‘find_or_create_by’ with multiple attributes][32]
+- Optimizaziton:
   - [How I Reduced my DB Server Load by 80%][40]
+  - [ActiveRecord performance: the N+1 queries antipattern][37]
+
+## Varius
+
+- [Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)][1]
+- [How to organise i18n without losing your translation_not_found - We build Envato][4]
+- [Accepts_nested_attributes_for with Has-Many-Through Relations][6]
+- [Using ActionCable][11]
+- [Test: Rspec, Factory Bot][12]
+- [We divided the time of our rspec test suite by 9 – Pootsy – Medium][15]
+- [Testing HTML5 Messages with RSpec/Selenium – Mike Schutte – Medium][16]
+- [Rails 5 Facebook Login][13]
+- [Using Tokens in Rails – muktesh Deshpande – Medium][14]
+- [Select2 With Simple Form in Rails - Andres Alvarez Dev Blog][17]
+- [Namespacing in Rails 5][18]
+- [Calculating age in Rails – Craig Sheen – Medium][27]
+- [Configuring Puma, Unicorn and Passenger for Maximum Efficiency][31]
+- [Get previous values of model attributes in Rails using a pre-existing helper][24]
+- [Rails Models With Materialized Views – Jaimerson Araújo – Medium][34]
 
 [Home](../../README.md)
 
