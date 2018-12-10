@@ -7,6 +7,7 @@
 - [Rails + Webpacker](#rails-+-webpacker)
 - [Database](#database)
 - [Varius](#varius)
+- [Test](test/links.md)
 
 ## Ruby essential
 
@@ -59,9 +60,6 @@
 - [How to organise i18n without losing your translation_not_found - We build Envato][4]
 - [Accepts_nested_attributes_for with Has-Many-Through Relations][6]
 - [Using ActionCable][11]
-- [Test: Rspec, Factory Bot][12]
-- [We divided the time of our rspec test suite by 9 – Pootsy – Medium][15]
-- [Testing HTML5 Messages with RSpec/Selenium – Mike Schutte – Medium][16]
 - [Rails 5 Facebook Login][13]
 - [Using Tokens in Rails – muktesh Deshpande – Medium][14]
 - [Select2 With Simple Form in Rails - Andres Alvarez Dev Blog][17]
@@ -84,11 +82,8 @@
 [9]:https://medium.com/@farsi_mehdi/habtm-to-has-many-through-43f68f50e50e
 [10]:https://medium.com/the-renaissance-developer/ruby-101-the-basics-f10961f990ac
 [11]:https://hackernoon.com/the-practical-guide-to-using-actioncable-30d570d8988c
-[12]:https://medium.com/@lukepierotti/setting-up-rspec-and-factory-bot-3bb2153fb909
 [13]:https://medium.com/@chinnatiptaemkaeo/integrate-omniauth-facebook-to-rails-5-1389d760d92a
 [14]:https://medium.com/@dmuktesh10/using-tokens-in-rails-29497d1722d8
-[15]:https://medium.com/pootsy/we-divided-the-time-of-our-rspec-test-suite-by-9-c7f991852c9a
-[16]:https://medium.com/@tmikeschu/testing-html5-messages-with-rspec-selenium-5f5834c5af10
 [17]:http://aalvarez.me/blog/posts/select2-with-simple-form-in-rails.html
 [18]:https://jarlowrey.com/blog/namespacing-rails-5.html
 [19]:https://github.com/plataformatec/simple_form
