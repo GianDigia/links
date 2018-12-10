@@ -1,12 +1,25 @@
 # Test Ruby on Rails
 
+[Back to rails](../links.md)
+
+## Rspec
+
 - [Making Rspec fast while using seeded data – Open House – Medium][1]
-- [capybara cheat sheet][2]
-- [module Minitest::Assertions - minitest-5.11.3 Documentation][3]
-- [Method: Capybara::Node::Finders#all — Documentation for jnicklas/capybara (master)][4]
 - [Cleaner and More Maintainable RSpec – Yoel Blum – Medium][5]
 - [An opinionated guide to readable RSpec (part 1 of 2)][6]
 - [An opinionated guide to readable RSpec (part 2 of 2)][7]
+- [Test: Rspec, Factory Bot][8]
+- [We divided the time of our rspec test suite by 9 – Pootsy – Medium][9]
+- [Testing HTML5 Messages with RSpec/Selenium – Mike Schutte – Medium][10]
+
+## Capybara
+
+- [capybara cheat sheet][2]
+- [Method: Capybara::Node::Finders#all — Documentation for jnicklas/capybara (master)][4]
+
+## Minitest
+
+- [module Minitest::Assertions - minitest-5.11.3 Documentation][3]
 
 [Home](../../../README.md)
   
@@ -17,3 +30,6 @@
 [5]:https://medium.com/@yoelblum_45935/cleaner-and-more-maintainable-rspec-cb0b439cd349
 [6]:https://medium.com/selleo/an-opinionated-guide-to-readable-rspec-part-1-of-2-fe1dce79a478
 [7]:https://medium.com/selleo/an-opinionated-guide-to-readable-rspec-part-2-of-2-2cc64b92aa14
+[8]:https://medium.com/@lukepierotti/setting-up-rspec-and-factory-bot-3bb2153fb909
+[9]:https://medium.com/pootsy/we-divided-the-time-of-our-rspec-test-suite-by-9-c7f991852c9a
+[10]:https://medium.com/@tmikeschu/testing-html5-messages-with-rspec-selenium-5f5834c5af10
