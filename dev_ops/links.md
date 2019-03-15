@@ -2,6 +2,7 @@
 
 ## Tecnologies
 
+- [Docker](dev_ops/docker/links.md)
 - [Kubernetes](dev_ops/kubernetes/links.md)
 
 ## Varius
