@@ -9,6 +9,8 @@
 ## Usefull
 
 - [Configure RBAC in your Kubernetes Cluster][6]
+- [Copy directories and files to and from Kubernetes Container [POD]][8]
+- [Multi-Tenancy in Kubernetes: Best Practices Today, and Future Directions - David Oppenheimer - YouTube][9]
 
 ## Networking
 
@@ -25,3 +27,5 @@
 [5]:https://linchpiner.github.io/k8s-multi-container-pods.html  
 [6]:https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
 [7]:https://medium.com/@cashisclay/kubernetes-ingress-82aa960f658e    
+[8]:https://medium.com/@nnilesh7756/copy-directories-and-files-to-and-from-kubernetes-container-pod-19612fa74660
+[9]:https://www.youtube.com/watch?v=xygE8DbwJ7c
