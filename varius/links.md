@@ -1,6 +1,7 @@
 # Others
 
 - [Regular Expression Quick Reference][1]
+- [Regex Cheat Sheet][10]
 - [These four “clean code” tips will dramatically improve your engineering team’s productivity][2]
 - [6 Simple Tips on How to Start Writing Clean Code – Hacker Noon][3]
 
@@ -30,3 +31,4 @@
 [7]:https://medium.com/sketch-app-sources/design-cheatsheet-274384775da9
 [8]:https://fonts.google.com/specimen/Nunito
 [9]:https://www.fontsquirrel.com/fonts/oleo-script
+[10]:https://dev.to/emmawedekind/regex-cheat-sheet-2j2a
