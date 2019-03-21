@@ -22,6 +22,7 @@
 - [10 new features in Ruby 2.5 - RubyMine Blog][29]
 - [Using delegate in Rails – JiaHung Lin – Medium][50]
 
+
 ## Gems
 
 - [State machines in Rails 5 – GeoGO.in – Medium][33]
@@ -30,6 +31,7 @@
 - [Phone number validation for Ruby][42]
 - [The ultimate pagination ruby gem][43]
 - [Netfix - fast JSON:API][44]
+
 
 ## Rails + Javascript
 
@@ -68,6 +70,7 @@
 - [Devise Authentication in Depth][45] 
 - [How To: Redirect back to current page after sign in, sign out, sign up, update][47]
 - [Exception Handling · ryanb/cancan Wiki][46]
+
 
 ## Varius
 
