@@ -3,6 +3,7 @@
  In this repository we will collet usefull article we find all aroud the web.
 
 - [Courses site](courses/links.md)
+- [Tips](tips/links.md)
 - [Best Practices and Errors to Avoid](best_practices/links.md)
 - [IDE](ide/links.md)
 - [DevOps](dev_ops/links.md)
