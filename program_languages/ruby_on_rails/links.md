@@ -61,7 +61,7 @@
 - Query tips
   - [HABTM to has_many through][9]
   - [ruby on rails ‘find_or_create_by’ with multiple attributes][32]
-- Optimizaziton:
+- Optimization:
   - [How I Reduced my DB Server Load by 80%][40]
   - [ActiveRecord performance: the N+1 queries antipattern][37]
 
