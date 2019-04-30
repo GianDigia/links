@@ -6,12 +6,12 @@
 - [Rails + React](#rails-+-react)
 - [Rails + Webpacker](#rails-+-webpacker)
 - [Database](#database)
-- [Varius](#varius)
+- [Various](#various)
 - [Test](test/links.md)
 
 ## Ruby essential
 
-- [Organizing large Rails projects with namespaces][49] 
+- [Organizing large Rails projects with namespaces][49]
 - [Ruby 101: The Basics – The Renaissance Developer – Medium][10]
 - [Five Ruby Methods You Should Be Using][28]
 - [Method Arguments in Ruby: Part I – Mehdi Farsi – Medium][20]
@@ -67,12 +67,12 @@
 
 ## Authentication
 
-- [Devise Authentication in Depth][45] 
+- [Devise Authentication in Depth][45]
 - [How To: Redirect back to current page after sign in, sign out, sign up, update][47]
 - [Exception Handling · ryanb/cancan Wiki][46]
 
 
-## Varius
+## Various
 
 - [Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)][1]
 - [How to organise i18n without losing your translation_not_found - We build Envato][4]

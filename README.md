@@ -1,7 +1,7 @@
 # Developer usefull resources
 
- In this repository we will collet usefull article we find all aroud the web. 
- 
+ In this repository we will collet usefull article we find all aroud the web.
+
 - [Courses site](courses/links.md)
 - [IDE](ide/links.md)
 - [DevOps](dev_ops/links.md)
@@ -15,8 +15,8 @@
   - [Javascript](program_languages/javascript/links.md)
   - [React](program_languages/react/links.md)
 
-- [Varius](varius/links.md)
-   - [Boostrap](varius/links.md#boostrap)
-   - [UI/UX](varius/links.md#UI/UX)
-   - [Fonts](varius/links.md#fonts)
+- [Various](various/links.md)
+   - [Boostrap](various/links.md#boostrap)
+   - [UI/UX](various/links.md#UI/UX)
+   - [Fonts](various/links.md#fonts)
  

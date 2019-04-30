@@ -6,7 +6,7 @@
 - [Kubernetes](dev_ops/kubernetes/links.md)
 - [Helm](dev_ops/helm/links.md)
 
-## Varius
+## Various
 
 - [Must-have DevOps Tools for App Maintenance – JetRuby][1]
 - [Scalable architecture without magic][2]
