@@ -14,6 +14,8 @@
 - [Creating Usability with Motion][5]
 - [Design Better Forms – UX Collective][6]
 - [10 cheat codes for designing User Interfaces – Design + Sketch – Medium][7]
+- [7 Rules for Creating Gorgeous UI (Updated for 2019)][11]
+- [Awesome Design Tools][12]
 
 ## Fonts  
 
@@ -32,3 +34,5 @@
 [8]:https://fonts.google.com/specimen/Nunito
 [9]:https://www.fontsquirrel.com/fonts/oleo-script
 [10]:https://dev.to/emmawedekind/regex-cheat-sheet-2j2a
+[11]:https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda
+[12]:https://github.com/LisaDziuba/Awesome-Design-Tools

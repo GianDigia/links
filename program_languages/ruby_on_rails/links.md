@@ -3,6 +3,7 @@
 - [Ruby essential](#ruby-essential)
 - [Gems](#gems)
 - [Rails + Javascript](#rails-+-javascript)
+- [Rails + React + Webpacker](#rails-+-react-+-webpacker)
 - [Rails + React](#rails-+-react)
 - [Rails + Webpacker](#rails-+-webpacker)
 - [Database](#database)
@@ -13,6 +14,9 @@
 
 - [Organizing large Rails projects with namespaces][49]
 - [Using delegate in Rails – JiaHung Lin – Medium][50]
+- [How DHH Organizes His Rails Controllers][56]
+- [Delete vs. Destroy: Does it even matter?][58]
+
 
 ## Gems
 
@@ -29,6 +33,10 @@
 - [Localizing JavaScript in Rails Apps - PhraseApp Blog][2]
 - [How to make AJAX calls in Rails 5.1 with or without jQuery - Learnetto][25]
 - [How to make Ajax calls — The Rails way – Patrik on Rails][26]
+
+## Rails + React + Webpacker
+
+- [Free Tutorial — How to use React with webpacker and Rails 5.1][59]
 
 ## Rails + React
 
@@ -49,12 +57,17 @@
 - [Searching Serialized Fields in Rails Using Postgres Arrays][48]
 - [The Minimum Arel Every Rails Developer Should Know][51]
 - [Making sense of ActiveRecord joins, includes, preload, and eager_load][52]
+- [Bi-Directional has_and_belongs_to_many on a Single Model in Rails][57]
 - Query tips
   - [HABTM to has_many through][9]
   - [ruby on rails ‘find_or_create_by’ with multiple attributes][32]
+  - [The 10 Most Underused ActiveRecord::Relation Methods][53]
+  - [Making sense of ActiveRecord joins, includes, preload, and eager_load][55]
 - Optimization:
   - [How I Reduced my DB Server Load by 80%][40]
   - [ActiveRecord performance: the N+1 queries antipattern][37]
+- Active Storage:
+  - [7 Practical Tips for ActiveStorage on Rails 5.2][54]
 
 ## Authentication
 
@@ -125,3 +138,11 @@
 [50]:https://medium.com/@pk60905/using-delegate-in-rails-527332da7f96
 [51]:https://jacopretorius.net/2016/09/the-mimimum-arel-every-rails-developer-should-know.html
 [52]:http://blog.scoutapp.com/articles/2017/01/24/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where
+
+[53]:http://www.mitchcrowe.com/10-most-underused-activerecord-relation-methods/
+[54]:https://bloggie.io/@kinopyo/7-practical-tips-for-activestorage-on-rails-5-2
+[55]:https://scoutapm.com/blog/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where
+[56]:http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/
+[57]:https://cobwwweb.com/bi-directional-has-and-belongs-to-many-on-a-single-model-in-rails
+[58]:https://medium.com/@wkhearn/delete-vs-destroy-does-it-even-matter-8cb4db6aa660
+[59]:https://medium.com/react-on-rails/free-tutorial-how-to-use-react-with-webpacker-and-rails-5-1-92af8e8d9d63

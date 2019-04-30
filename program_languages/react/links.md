@@ -8,6 +8,7 @@
 - [Presentational and Container Components – Dan Abramov – Medium][7]
 - [Understanding State and Props in React – Hacker Noon][8]
 - [Learn React.js in 5 minutes – freeCodeCamp.org][9]
+- [5 common practices that you can stop doing in React][10]
 
 [Home](../../README.md)
 
@@ -20,3 +21,4 @@
 [7]:https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 [8]:https://hackernoon.com/understanding-state-and-props-in-react-94bc09232b9c
 [9]:https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4
+[10]:https://blog.logrocket.com/5-common-practices-that-you-can-stop-doing-in-react-9e866df5d269

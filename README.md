@@ -1,6 +1,6 @@
 # Developer usefull resources
 
- In this repository we will collet usefull article we find all aroud the web.
+ In this repository we will collect useful articles found around the web
 
 - [Courses site](courses/links.md)
 - [Tips](tips/links.md)

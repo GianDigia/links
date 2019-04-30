@@ -1,5 +1,5 @@
  # Javascript
- 
+
 - [Modern JavaScript features which you should be using every day for better development and what…][1]
 - [Selectize.js][2]
 - [A Beginner’s Guide to Arrow Functions in ES6: Part 1][3]
@@ -18,6 +18,8 @@
 - [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply][16]
 - [Here are examples of everything new in ECMAScript 2016, 2017, and 2018][17]
 - [Want to learn ES6+? Here’s a free 23-part course that will give you a strong foundation.][18]
+- [JavaScript Promise API Basics][19]
+- [JavaScript Promises in Sixteen Minutes][20]
 
 [Home](../../README.md)
 
@@ -39,3 +41,5 @@
 [16]:https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32
 [17]:https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
 [18]:https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74
+[19]:https://blog.codemy.net/javascript-promise-api-basics/
+[20]:https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887
