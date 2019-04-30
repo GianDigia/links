@@ -12,16 +12,7 @@
 ## Ruby essential
 
 - [Organizing large Rails projects with namespaces][49]
-- [Ruby 101: The Basics – The Renaissance Developer – Medium][10]
-- [Five Ruby Methods You Should Be Using][28]
-- [Method Arguments in Ruby: Part I – Mehdi Farsi – Medium][20]
-- [Method Arguments in Ruby: Part II – Mehdi Farsi – Medium][21]
-- [What is Difference between Ruby Blocks, Procs and Lambdas][22]
-- [Idiomatic Ruby: writing beautiful code – freeCodeCamp.org][23]
-- [What’s new in Ruby 2.6? – Tailor Tech – Medium][36]
-- [10 new features in Ruby 2.5 - RubyMine Blog][29]
 - [Using delegate in Rails – JiaHung Lin – Medium][50]
-
 
 ## Gems
 
@@ -98,30 +89,23 @@
 [7]:https://medium.com/@coorasse/goodbye-sprockets-welcome-webpacker-3-0-ff877fb8fa79
 [8]:https://medium.com/rubyinside/hot-module-reloading-with-webpacker-b663643a60b1
 [9]:https://medium.com/@farsi_mehdi/habtm-to-has-many-through-43f68f50e50e
-[10]:https://medium.com/the-renaissance-developer/ruby-101-the-basics-f10961f990ac
 [11]:https://hackernoon.com/the-practical-guide-to-using-actioncable-30d570d8988c
 [13]:https://medium.com/@chinnatiptaemkaeo/integrate-omniauth-facebook-to-rails-5-1389d760d92a
 [14]:https://medium.com/@dmuktesh10/using-tokens-in-rails-29497d1722d8
 [17]:http://aalvarez.me/blog/posts/select2-with-simple-form-in-rails.html
 [18]:https://jarlowrey.com/blog/namespacing-rails-5.html
 [19]:https://github.com/plataformatec/simple_form
-[20]:https://medium.com/@farsi_mehdi/method-arguments-in-ruby-part-i-e033fd6bfd93
-[21]:https://medium.com/@farsi_mehdi/method-arguments-in-ruby-part-ii-60b9e406830d
-[22]:https://medium.com/podiihq/ruby-blocks-procs-and-lambdas-bb6233f68843
-[23]:https://medium.freecodecamp.org/idiomatic-ruby-writing-beautiful-code-6845c830c664
+
 [24]:https://medium.com/mozaix-llc/get-previous-values-of-model-attributes-in-rails-using-a-pre-existing-helper-5be6d1c52760
 [25]:https://learnetto.com/blog/how-to-make-ajax-calls-in-rails-5-1-with-or-without-jquery
 [26]:https://m.patrikonrails.com/how-to-make-ajax-calls-the-rails-way-20174715d176
 [27]:https://medium.com/@craigsheen/calculating-age-in-rails-9bb661f11303
-[28]:https://www.engineyard.com/blog/five-ruby-methods-you-should-be-using
-[29]:https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/
 [30]:https://blog.codeship.com/using-react-inside-your-rails-apps/
 [31]:https://www.speedshop.co/2017/10/12/appserver.html
 [32]:https://medium.com/@mattcroak718/ruby-on-rails-find-or-create-by-with-multiple-attributes-d8b307ed7249
 [33]:https://medium.com/geogo-in/state-machines-in-rails-5-45259a4f42da
 [34]:https://medium.com/@jaimersonn/rails-models-with-materialized-views-9775b0c05a95
 [35]:https://medium.com/@bruno_boehm/reactjs-ruby-on-rails-api-heroku-app-2645c93f0814
-[36]:https://medium.com/tailor-tech/whats-new-in-ruby-2-6-a4774f3631c1
 [37]:https://medium.com/@AppSignal/activerecord-performance-the-n-1-queries-antipattern-db89d21a04bc
 [38]:https://medium.com/@eth3rnit3/crud-react-native-ror-backend-with-devise-auth-token-4407cac3aa0b
 [39]:https://medium.com/@jalenjackson/build-your-own-real-time-search-with-react-ruby-on-rails-760f141a2d1d

@@ -9,6 +9,7 @@
 
 - Program languages:
   - [Swift](program_languages/swift/links.md)
+  - [Ruby](program_languages/ruby/links.md)
   - [Ruby On Rails](program_languages/ruby_on_rails/links.md)
     - [Test](program_languages/ruby_on_rails/test/links.md)
   - [Css](program_languages/css/links.md)
@@ -19,4 +20,3 @@
    - [Boostrap](various/links.md#boostrap)
    - [UI/UX](various/links.md#UI/UX)
    - [Fonts](various/links.md#fonts)
- 
