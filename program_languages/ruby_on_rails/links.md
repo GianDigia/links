@@ -11,6 +11,7 @@
 
 ## Ruby essential
 
+- [Organizing large Rails projects with namespaces][49] 
 - [Ruby 101: The Basics – The Renaissance Developer – Medium][10]
 - [Five Ruby Methods You Should Be Using][28]
 - [Method Arguments in Ruby: Part I – Mehdi Farsi – Medium][20]
@@ -19,11 +20,18 @@
 - [Idiomatic Ruby: writing beautiful code – freeCodeCamp.org][23]
 - [What’s new in Ruby 2.6? – Tailor Tech – Medium][36]
 - [10 new features in Ruby 2.5 - RubyMine Blog][29]
+- [Using delegate in Rails – JiaHung Lin – Medium][50]
+
 
 ## Gems
 
 - [State machines in Rails 5 – GeoGO.in – Medium][33]
 - [plataformatec/simple_form: Forms made easy for Rails][19]
+- [The simplest way to group temporal data][41]
+- [Phone number validation for Ruby][42]
+- [The ultimate pagination ruby gem][43]
+- [Netfix - fast JSON:API][44]
+
 
 ## Rails + Javascript
 
@@ -47,12 +55,22 @@
 
 ## Database
 
+- [Searching Serialized Fields in Rails Using Postgres Arrays][48]
+- [The Minimum Arel Every Rails Developer Should Know][51]
+- [Making sense of ActiveRecord joins, includes, preload, and eager_load][52]
 - Query tips
   - [HABTM to has_many through][9]
   - [ruby on rails ‘find_or_create_by’ with multiple attributes][32]
 - Optimizaziton:
   - [How I Reduced my DB Server Load by 80%][40]
   - [ActiveRecord performance: the N+1 queries antipattern][37]
+
+## Authentication
+
+- [Devise Authentication in Depth][45] 
+- [How To: Redirect back to current page after sign in, sign out, sign up, update][47]
+- [Exception Handling · ryanb/cancan Wiki][46]
+
 
 ## Varius
 
@@ -109,3 +127,17 @@
 [39]:https://medium.com/@jalenjackson/build-your-own-real-time-search-with-react-ruby-on-rails-760f141a2d1d
 
 [40]:https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/
+
+[41]:https://github.com/ankane/groupdate
+[42]:https://github.com/mobi/telephone_number
+[43]:https://github.com/ddnexus/pagy
+[44]:https://github.com/Netflix/fast_jsonapi
+
+[45]:https://www.sitepoint.com/devise-authentication-in-depth/
+[46]:https://github.com/ryanb/cancan/wiki/exception-handling
+[47]:https://github.com/plataformatec/devise/wiki/How-To:-Redirect-back-to-current-page-after-sign-in,-sign-out,-sign-up,-update
+[48]:https://www.viget.com/articles/searching-serialized-fields-in-rails-using-postgres-arrays/
+[49]:https://blog.makandra.com/2014/12/organizing-large-rails-projects-with-namespaces/
+[50]:https://medium.com/@pk60905/using-delegate-in-rails-527332da7f96
+[51]:https://jacopretorius.net/2016/09/the-mimimum-arel-every-rails-developer-should-know.html
+[52]:http://blog.scoutapp.com/articles/2017/01/24/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where
